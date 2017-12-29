@@ -7,3 +7,5 @@ It is a portal in which player as well as Officer can log-in OR register. Also i
 4. Officer can view all player list.
 5. Officer can select a player to view his/her all details.
 6. Officer can regulate player logins and edit their details.
+
+Main class file of this project is MiniProject.java
